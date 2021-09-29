@@ -10,7 +10,7 @@ const math = require('canvas-sketch-util/math');
 const random = require('canvas-sketch-util/random');
 
 const settings = {
-  dimensions: [ 1090, 1090 ]
+  dimensions: [ 1080, 1080 ]
 };
 //Creo funcion para que convierta de radians a degrees
 
